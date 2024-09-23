@@ -42,5 +42,5 @@ I am a data analyst with a passion for problem-solving, data science, and enviro
 
 ### 📫 How to reach me
 - Email: kimutai.onesmus@example.com
-- LinkedIn: [Kimutai Onesmus](https://www.linkedin.com/in/kimutai-onesmus)
+- LinkedIn: www.linkedin.com/in/kimutai-onesmus-263519214
 
