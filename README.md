@@ -21,7 +21,7 @@ I am a data analyst with a passion for problem-solving, data science, and enviro
 
 ### 📫 How to reach me
 - Email: kipkoreonesmus951@gmail.com
-- LinkedIn: # Hi, I'm Kimutai Onesmus 👋
+- LinkedIn: www.linkedin.com/in/kimutai-onesmus-263519214 👋
 
 I am a data analyst with a passion for problem-solving, data science, and environmental remediation. Currently, I’m exploring innovative solutions to contaminated site management and advanced financial planning tools. 
 
