@@ -1,11 +1,10 @@
- kimutai-dev
 
 # Hi, I'm Kimutai Onesmus 👋
 . Welcome to my page
 
 . My name is Kimutai Onesmus.
 
-Data Analyst | Data science
+DATA ANALYST | DATA SCIENCE
 
  🌱 I’m currently learning
 - Advanced Machine Learning Techniques
